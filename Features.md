@@ -24,8 +24,3 @@ options:
     it contains header which uses the modal selector and input and other components
     which would be bad UX
 2. we need single header, multi-modal-selector, single input and the results would be displayed specific to modal
-
-
-
-
-Smart prompt library + community market place
